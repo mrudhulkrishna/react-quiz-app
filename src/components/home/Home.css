@@ -1,0 +1,15 @@
+
+.welcome{
+    font-size: 85px;
+    margin-top: 100px;
+    color: white;
+}
+.start{
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(228, 65, 5);
+    color: white;
+    border-radius: 2px;
+}
